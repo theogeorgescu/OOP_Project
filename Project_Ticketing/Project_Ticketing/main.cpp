@@ -48,7 +48,13 @@ public:
 }
 
 class Event {
+    
+public:
     string date;
     int time;
     string name;
+}
+
+class Ticket {
+    const int id;
 }
