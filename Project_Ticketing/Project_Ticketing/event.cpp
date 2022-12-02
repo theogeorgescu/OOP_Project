@@ -15,7 +15,9 @@ using namespace std;
 class Event {
     
 public:
+    char* nameEvent;
     string date;
     int time;
-    string name;
+    bool hasLocation;
+    bool hasRoom;
 }
