@@ -19,7 +19,7 @@ Issuance of theater tickets from the Category 1, Category 2 and Box categories. 
 
 Phase 1:
 
-Deadline: TBD
+Deadline: 5 dec 2022
 Minimum 3 classes related to the project
 Classes must contain (in total, not each) at least one dynamically allocated vector of characters, one dynamically allocated numeric vector, one constant field, one static field and one method static. Members must be related to the class.
 All attributes will be defined in the private area of ​​the class

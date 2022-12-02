@@ -8,5 +8,14 @@
 #include <deque>
 #include <queue>
 #include <map>
+#include "event.hpp"
 
 using namespace std;
+
+class Event {
+    
+public:
+    string date;
+    int time;
+    string name;
+}
