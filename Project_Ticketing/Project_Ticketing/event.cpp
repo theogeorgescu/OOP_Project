@@ -14,6 +14,8 @@ using namespace std;
 
 class Event {
     
+    static int numberEvents;
+    
 public:
     char* nameEvent;
     string date;
